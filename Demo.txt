@@ -1,0 +1,10 @@
+Fecha: 09:02:13.413 p. m. 06/09/2020	 Frecuencia: 100.400019	 Amplitud: 8.180320
+Fecha: 09:02:14.413 p. m. 06/09/2020	 Frecuencia: 100.400018	 Amplitud: 8.186880
+Fecha: 09:02:15.413 p. m. 06/09/2020	 Frecuencia: 100.400018	 Amplitud: 8.186880
+Fecha: 09:02:16.413 p. m. 06/09/2020	 Frecuencia: 100.400018	 Amplitud: 8.186880
+Fecha: 09:02:17.415 p. m. 06/09/2020	 Frecuencia: 100.400019	 Amplitud: 8.180320
+Fecha: 09:02:18.415 p. m. 06/09/2020	 Frecuencia: 100.400019	 Amplitud: 8.180320
+Fecha: 09:02:19.415 p. m. 06/09/2020	 Frecuencia: 100.400018	 Amplitud: 8.186880
+Fecha: 09:02:23.451 p. m. 06/09/2020	 Frecuencia: 100.400018	 Amplitud: 8.186880
+Fecha: 09:02:24.452 p. m. 06/09/2020	 Frecuencia: 100.400018	 Amplitud: 8.186880
+Fecha: 09:02:25.451 p. m. 06/09/2020	 Frecuencia: 100.400019	 Amplitud: 8.180320
